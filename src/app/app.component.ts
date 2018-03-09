@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  template: 'Helloooow ng2'
+  template: '<search-box></search-box>'
 })
 export class AppComponent {
   title = 'app p2';
